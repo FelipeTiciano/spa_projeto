@@ -43,6 +43,8 @@ Abra o arquivo index.html no navegador (duplo clique).
 
 Clique nos botões Home e Contato para navegar entre as páginas.
 
+O projeto também está disponível online através do GitHub Pages, podendo ser acessado diretamente no navegador:
+
 Teste o formulário de contato e veja a validação em ação.
 
 📚 Tecnologias Utilizadas
