@@ -58,5 +58,5 @@ JavaScript (DOM, eventos, localStorage)
 👨‍💻 Autor
 
 Felipe Ticiano Foltram
-Aluno Cruzeiro do Sul Virtual
+Aluno Cruzeiro do Sul Virtual:
 Atividade: Desenvolvimento Front-End para Web
